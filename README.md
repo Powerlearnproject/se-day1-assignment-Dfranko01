@@ -9,6 +9,7 @@ Explain what software engineering is and discuss its importance in the technolog
 Software enginnering involves the systematic integration of engineering principles, methods and tools which may involve designing, development, testing, deployment and maintenance of high-quality software products and systems.
 The importance of software engineering is not far fetched as it plays and everyday crucial roles in developing our modern life activities which includes communication, healthcare, commerce, etc.
 Identify and describe at least three key milestones in the evolution of software engineering.
+
 Milestons in evolution of software engineering include the development of programming languages such as Fortran, Establishment of software engineering as a discipline in the 1960's, the advent of structured programming in the 1970's and the rise of agile methodologies in the 2000's.
 
 List and briefly explain the phases of the Software Development Life Cycle.
@@ -21,19 +22,23 @@ List and briefly explain the phases of the Software Development Life Cycle.
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+
 Waterfall is a linear, step-by-step approach to software development where each phase must be completed before moving on to the next. It's best for projects with clear, unchanging requirements, like developing software for regulated industries (e.g., aerospace).
 Agile is a flexible, iterative approach that delivers small, functional parts of the software in cycles, allowing for changes along the way. It’s ideal for projects with evolving requirements, like creating a mobile app in a competitive market.
 Hence, Waterfall is structured and predictable, while Agile is adaptable and responsive to change.
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+
 Software Developer: Responsible for writing code and implementing software solutions.
 Quality Assurance Engineer: Ensures software quality by designing and executing test plans.
 Project Manager: Oversees the planning, execution, and delivery of software projects.
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+
 Integrated Development Environments (IDEs) are Software suites that provide comprehensive tools for writing, debugging, and testing code (e.g., Visual Studio, Eclipse, IntelliJ IDEA).While Version Control Systems (VCS) are Software tools for tracking changes to source code and coordinating work among team members (e.g., Git, Subversion).
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+
 1. Changing Requirements: Frequent changes can disrupt progress.
    Strategy: Use Agile methods, maintain clear communication, and utilize version control.
 2. Meeting Deadlines: Tight deadlines can cause stress and lower work quality.
@@ -62,11 +67,13 @@ Importance: Confirms that the software meets business needs and is acceptable to
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
+
 Prompt engineering is all about crafting questions or statements to get the best possible responses from AI models.
 Imagine asking a vague question and getting a confusing answer. 
 Prompt engineering helps avoid that by making your questions clear and specific, so the AI understands exactly what you need.
 
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+
 If you ask, 'Tell me about cats,' the AI might give a general answer. 
 But if you ask, 'Tell me about the history of domestic cats,' you'll get a more focused response.
